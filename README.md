@@ -1,4 +1,4 @@
-<img align="right" width="190" src="./mark.svg" alt="built by abs">
+<img align="right" width="190" src="https://raw.githubusercontent.com/builtbyabs/builtbyabs/main/mark.svg" alt="built by abs">
 
 ### Hi, I'm Abhishek
 
