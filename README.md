@@ -14,6 +14,6 @@ cited by ChatGPT, Perplexity and Google's AI Overviews, not just ranked on Googl
 
 **Usually reaching for** &nbsp; `TypeScript` · `Node` · `Next.js` · `Shopify` · `zod`
 
-**Find me** &nbsp; [ablyon.tech](https://ablyon.tech) · [LinkedIn](https://www.linkedin.com/in/abhishek-chauhan1996) · `automationbyabs@gmail.com`
+**Find me** &nbsp;[LinkedIn](https://www.linkedin.com/in/abhishek-chauhan1996) · `abs@ablyon.tech`
 
-<sub>Based in Gurugram, India — open to interesting problems.</sub>
+
