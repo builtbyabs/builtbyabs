@@ -1,14 +1,19 @@
-### Abhishek Chauhan
+<img align="right" width="190" src="./mark.svg" alt="built by abs">
 
-Founder of [Ablyon](https://ablyon.tech). I build Shopify and web apps, and small
-tools that take the tedious parts out of that work.
+### Hi, I'm Abhishek
 
-- Currently into: AI-search visibility for e-commerce (GEO / structured data)
-- Usually reaching for: TypeScript, Node, Next.js, Shopify
-- Based in Gurugram, India
+I build Shopify and web apps at [Ablyon](https://ablyon.tech), the studio I run, and
+I ship small open-source tools that take the tedious parts out of that work.
 
-**Open tools**
+These days I'm focused on **AI-search visibility for e-commerce**: getting stores
+cited by ChatGPT, Perplexity and Google's AI Overviews, not just ranked on Google.
 
-- [shopify-geo-audit](https://github.com/builtbyabs/shopify-geo-audit) — audits any Shopify store for AI-search readiness and generates the fixes
+**In the open**
 
-[ablyon.tech](https://ablyon.tech) · [LinkedIn](https://www.linkedin.com/in/abhishek-chauhan1996)
+- [shopify-geo-audit](https://github.com/builtbyabs/shopify-geo-audit) — audits any Shopify store for AI-search readiness and generates the structured-data, `llms.txt` and `robots.txt` fixes to paste in. Zero-config TypeScript CLI.
+
+**Usually reaching for** &nbsp; `TypeScript` · `Node` · `Next.js` · `Shopify` · `zod`
+
+**Find me** &nbsp; [ablyon.tech](https://ablyon.tech) · [LinkedIn](https://www.linkedin.com/in/abhishek-chauhan1996) · `automationbyabs@gmail.com`
+
+<sub>Based in Gurugram, India — open to interesting problems.</sub>

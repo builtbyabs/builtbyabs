@@ -1,0 +1,8 @@
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="built by abs — shipping open tools">
+  <rect width="220" height="220" fill="#0A0A0A"/>
+  <rect x="8" y="8" width="204" height="204" fill="none" stroke="#E8FF00" stroke-width="3"/>
+  <text x="26" y="58" font-family="ui-monospace,'SF Mono','Courier New',monospace" font-size="15" fill="#6B6860">~/builtbyabs</text>
+  <text x="22" y="142" font-family="ui-monospace,'SF Mono','Courier New',monospace" font-size="74" font-weight="700" fill="#F2EFE6">abs</text>
+  <rect x="24" y="158" width="64" height="8" fill="#E8FF00"/>
+  <text x="26" y="196" font-family="ui-monospace,'SF Mono','Courier New',monospace" font-size="13" fill="#E8FF00">&gt;_ shipping open tools</text>
+</svg>
