@@ -1,19 +1,28 @@
 <img align="right" width="190" src="https://raw.githubusercontent.com/builtbyabs/builtbyabs/main/mark.svg" alt="built by abs">
 
-### Hi, I'm Abhishek
+## Abhishek Chauhan
 
-I build Shopify and web apps at [Ablyon](https://ablyon.tech), the studio I run, and
-I ship small open-source tools that take the tedious parts out of that work.
+Full-stack developer and founder of [Ablyon](https://ablyon.tech) — a digital studio focused on building high-performance Shopify and web applications. I specialize in **Generative Engine Optimization (GEO)** and help e-commerce businesses gain visibility in AI-powered search engines like ChatGPT, Perplexity, and Google's AI Overviews.
 
-These days I'm focused on **AI-search visibility for e-commerce**: getting stores
-cited by ChatGPT, Perplexity and Google's AI Overviews, not just ranked on Google.
+### Current Focus
 
-**In the open**
+Developing tools and strategies to help Shopify stores and digital properties become discoverable and cited by AI search engines — going beyond traditional SEO to optimize for the next generation of search.
 
-- [shopify-geo-audit](https://github.com/builtbyabs/shopify-geo-audit) — audits any Shopify store for AI-search readiness and generates the structured-data, `llms.txt` and `robots.txt` fixes to paste in. Zero-config TypeScript CLI.
+### Projects & Contributions
 
-**Usually reaching for** &nbsp; `TypeScript` · `Node` · `Next.js` · `Shopify` · `zod`
+**Open Source**
+- **[shopify-geo-audit](https://github.com/builtbyabs/shopify-geo-audit)** — A CLI tool that audits Shopify stores for AI-search readiness, scores visibility (0-100), and generates actionable fixes for structured data, `llms.txt`, and `robots.txt`. Built with TypeScript and Node.js.
+  
+- **[awesome-geo](https://github.com/builtbyabs/awesome-geo)** — A curated collection of resources, guides, and research on Generative Engine Optimization for AI search engines.
 
-**Find me** &nbsp;[LinkedIn](https://www.linkedin.com/in/abhishek-chauhan1996) · `abs@ablyon.tech`
+### Technical Stack
 
+**Languages & Frameworks:** TypeScript · Node.js · Next.js  
+**Platforms & Tools:** Shopify · Zod · JSON-LD · Schema.org  
+**Specializations:** GEO/AEO · E-commerce · AI Search Visibility
 
+### Get in Touch
+
+- **Email:** abs@ablyon.tech
+- **LinkedIn:** [linkedin.com/in/abhishek-chauhan1996](https://www.linkedin.com/in/abhishek-chauhan1996)
+- **Studio:** [ablyon.tech](https://ablyon.tech)
