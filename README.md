@@ -2,7 +2,7 @@
 
 # Abhishek Chauhan
 
-**Founder at [Ablyon](https://ablyon.tech)** | **AI Search Specialist** | **Developer**
+**Founder at [Ablyon](https://ablyon.tech)** | **Full Stack Developer** | 
 
 Building high-performance web and e-commerce solutions with a focus on **Generative Engine Optimization (GEO)**. I create tools and strategies that help businesses become discoverable and cited by AI-powered search engines like ChatGPT, Perplexity, and Google's AI Overviews.
 
