@@ -88,5 +88,5 @@ Currently focused on building the next generation of tools for AI search visibil
 <div align="center">
 
 **Building the future of AI-search-ready commerce** 🚀
-
+Thanks for visiting my profile 
 </div>
